@@ -42,7 +42,6 @@ def predict():
                     "Shell weight",
                     "Rings"],                 
         "values": [[
-
                     None,
                     Length,
                     Diameter,
